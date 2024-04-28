@@ -50,9 +50,9 @@ The application allows users to input a prompt and upload an image. The Gemini m
 
 ## Example
 
-![example](https://github.com/raghulajithn/imageToText/assets/96931716/cce05932-3cbc-4491-b37b-b5aab796c4ab)
+![example](https://github.com/raghulajithn/imageToText/assets/96931716/6a2d5f01-5088-4364-8f61-eab605ccd1f5)
+![response](https://github.com/raghulajithn/imageToText/assets/96931716/c0307f46-e161-4837-9d45-52b0c06095d2)
 
-![response](https://github.com/raghulajithn/imageToText/assets/96931716/57dfadb3-768d-48f6-be56-ff80fec24ad7)
 
 
 ## Credits
